@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "276579700204",
+    "project_id": "eccommmm",
+    "storage_bucket": "eccommmm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276579700204:android:ea4971dbba31fd3a0584c9",
+        "android_client_info": {
+          "package_name": "com.aaaaa.tttttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxTBjLPVSiyHY4iwxyPPrSG23xWHX4Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276579700204-q6pgm92upb1tailm3lp2mirdpof2qi27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alaa.taha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276579700204:android:f8cb32f9160fe9df0584c9",
+        "android_client_info": {
+          "package_name": "com.alaa.taha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxTBjLPVSiyHY4iwxyPPrSG23xWHX4Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276579700204-q6pgm92upb1tailm3lp2mirdpof2qi27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alaa.taha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276579700204:android:aa3f1a28e4cd1f920584c9",
+        "android_client_info": {
+          "package_name": "com.ecommerceAlaa.AlaaDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxTBjLPVSiyHY4iwxyPPrSG23xWHX4Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276579700204-vtiknj08838apdogni4smo916g04m7l3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276579700204-q6pgm92upb1tailm3lp2mirdpof2qi27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alaa.taha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
